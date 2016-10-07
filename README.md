@@ -1,4 +1,4 @@
-# JTCalendar_swift_Simple
+# JTCalendar_swift_Sample
 
 A Demo code for import JTCalendar(objc) to Swift 2.3 project
 
